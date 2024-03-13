@@ -1,12 +1,9 @@
 Hi 👋 My name is Rohan Verma
 ============================
 
-Full Stack Web Developer
+MERN Stack Developer
 ------------------------
 
-MERN Stack Developer
-
-* 🌍  I'm based in Earth
 * ✉️  You can contact me at [rohanverma96438@gmail.com](mailto:rohanverma96438@gmail.com)
 * 🧠  I'm learning TypeScript
 
@@ -18,6 +15,3 @@ MERN Stack Developer
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Rohan-Ver-ma" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/rohanverma8744" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
