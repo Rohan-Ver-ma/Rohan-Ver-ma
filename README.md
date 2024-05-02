@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rohan-Ver-ma" alt="Vinyl-Chi" /> </p>
 Hi 👋 My name is Rohan Verma
-============================
+
 
 MERN Stack Developer
 ------------------------
