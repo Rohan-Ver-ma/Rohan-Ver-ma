@@ -2,11 +2,10 @@
 Hi 👋 My name is Rohan Verma
 
 
-MERN Stack Developer
+I do Full Stack, Devops and Distributed Computing
 ------------------------
 
 * ✉️  You can contact me at [rohanverma96438@gmail.com](mailto:rohanverma96438@gmail.com)
-* 🧠  I'm learning TypeScript
 
 ### Skills
 
